@@ -1,0 +1,8 @@
+.active {
+  background-color: red;
+  color: white;
+}
+
+.link:hover {
+  font-size: 2rem;
+}
